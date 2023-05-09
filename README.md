@@ -25,6 +25,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#features">Features</a></li>
+        <li><a href="#work-in-progress"> Work in Progress</a></li>
         <li><a href="#technologies-used">Technologies Used</a></li>
         <li><a href="#users">Users</a></li>
       </ul>
