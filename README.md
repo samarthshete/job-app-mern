@@ -166,8 +166,9 @@ This project is licensed under the MIT License.
 ## Contact
 For any questions or inquiries, please reach out to:
 
-Email: samarthshete14@gmail.com
-LinkedIn: <a href="https://www.linkedin.com/in/samarthshete14/">Samarth Shete</a>
+- Email: samarthshete14@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/samarthshete14/">Samarth Shete</a>
+
 Feel free to contact us through email or connect with us on LinkedIn. We are happy to answer any questions or discuss potential collaborations.
 
 Good luck with your project and your job search!
