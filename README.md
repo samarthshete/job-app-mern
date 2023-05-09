@@ -10,8 +10,8 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <br>
-  <a href="https://jobify-abdelrahman-soltan.up.railway.app/">
-    <img src="./client/src/assets/images/logo-no=background.png" alt="Logo" height="50">
+  <a href= "https://jobtrackr.onrender.com">
+    <img src="./client/src/assets/images/job-logo.svg" alt="Logo" height="50">
   </a>
   <br>
   <br>
@@ -60,7 +60,14 @@ JobTrackr is a comprehensive full-stack web application designed to streamline a
 
 ## Work in Progress
 
-TrackMyJob is currently under active development, and there are some features that are still being added or improved, and some bugs that are being addressed
+TrackMyJob is currently under active development, and there are some features that are still being added or improved, and some bugs that are being addressed.
+
+- Search Filter: I am working on implementing a search functionality that allows users to search and filter their job applications based on various criteria, such as job title, company name, or application status.
+- Stats Page: I am developing a stats page that will provide users with insightful visualizations and statistics related to their job applications, such as the number of applications submitted, the status distribution, or the average salary.
+- Document : Document page to upload and attach files related to job applications.
+
+We appreciate your patience as we work on these features. Contributions and suggestions are always welcome!
+If you have any ideas for additional features or would like to contribute to the development of these features, please refer to the "Contributing" section for instructions on how to get started.
 
 ## Technologies Used
   TrackMyJob is built using the following technologies:
@@ -157,9 +164,12 @@ If you'd like to contribute to the project, please follow these steps:
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or inquiries, please reach out to samarthshete14@gmail.com.
+For any questions or inquiries, please reach out to:
 
-Feel free to customize this README to match the specific details and requirements of your Job Application Tracker project. 
+Email: samarthshete14@gmail.com
+LinkedIn: <a href="https://www.linkedin.com/in/samarthshete14/">Samarth Shete</a>
+Feel free to contact us through email or connect with us on LinkedIn. We are happy to answer any questions or discuss potential collaborations.
+
 Good luck with your project and your job search!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
