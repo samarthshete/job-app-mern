@@ -1,0 +1,7 @@
+class CustomeApiError extends Error {
+
+    constructor (message){
+        super(message) 
+    }
+}
+export default CustomeApiError
