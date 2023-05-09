@@ -9,14 +9,15 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-<br>
-<a href="https://jobify-abdelrahman-soltan.up.railway.app/">
-    <img src="./client/src/assets/images/logo-no=background.png" alt="Logo" height="50" >
+  <br>
+  <a href="https://jobify-abdelrahman-soltan.up.railway.app/">
+    <img src="./client/src/assets/images/logo-no=background.png" alt="Logo" height="50">
   </a>
-<br>
-<br>
+  <br>
+  <br>
+</div>
 
-  <!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -24,7 +25,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#features">Features</a></li>
-        <li><a href="#built-with">Technologies Used</a></li>
+        <li><a href="#technologies-used">Technologies Used</a></li>
         <li><a href="#users">Users</a></li>
       </ul>
     </li>
@@ -32,81 +33,81 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
-       
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-     <li><a href="#License">License</a></li>
-    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
- 
- ## About The Project
 
-JobTrackr is a comprehensive full-stack web application designed to streamline and organize the job application process. 
-With TrackMyJob, users can easily track their job applications,monitor the progress of their job search. 
+## About The Project
+
+JobTrackr is a comprehensive full-stack web application designed to streamline and organize the job application process. With TrackMyJob, users can easily track their job applications and monitor the progress of their job search.
 
 ![Preview](./client/src/assets/images/preview.PNG)
 ![Preview](./client/src/assets/images/preview2.PNG)
 ![Preview](./client/src/assets/images/preview3.PNG)
-  
+
 ### Features
+
 1. User-friendly interface: TrackMyJob provides a clean and intuitive user interface that allows users to easily manage their job applications.
 2. Dashboard: Users can add job postings to their dashboard and track the status of each application at a glance.
-3. Application details: Users can store important information about each job application, such as job title, company name, application Status, Salary, and more.
+3. Application details: Users can store important information about each job application, such as job title, company name, application status, salary, and more.
 4. Search and filter: Users can search and filter their job applications based on various criteria, making it easy to find and manage specific applications.
 5. Authentication and authorization: TrackMyJob uses JWT-based authentication and authorization to ensure secure access to user accounts and data.
-  
+
 ## Work in Progress
-  TrackMyJob is currently under active development, and there are some features that are still being added or improved, and some bugs that are being addressed. 
-  
+
+TrackMyJob is currently under active development, and there are some features that are still being added or improved, and some bugs that are being addressed
+
 ## Technologies Used
   TrackMyJob is built using the following technologies:
 
-  ### Front-end:
-      React.js for building the user interface
-      Redux for state management
-      Axios for API communication
-  ### Back-end:
-      Node.js for server-side development
-      Express.js for building the RESTful API
-      MongoDB for the database     
-  ### Other tools and libraries:
-      Styled Components for UI components
-      Moment.js for date and time manipulation
-      Bcrypt for password hashing
-      JSON Web Tokens (JWT) for secure authentication
+### Front-end:
 
- ## users
+- React.js for building the user interface
+- Redux for state management
+- Axios for API communication
 
-| Email                 | Password |
-| --------------------- | -------- |
-| david@gmail.com       | 654321   |
-  
-  <!-- GETTING STARTED -->
+### Back-end:
+
+- Node.js for server-side development
+- Express.js for building the RESTful API
+- MongoDB for the database
+
+### Other tools and libraries:
+
+- Styled Components for UI components
+- Moment.js for date and time manipulation
+- Bcrypt for password hashing
+- JSON Web Tokens (JWT) for secure authentication
+
+## Users
+
+| Email              | Password |
+| ------------------ | -------- |
+| david@gmail.com    | 654321   |
+
+<!-- GETTING STARTED -->
 
 ## Getting Started
 
-This project require some perquisites and dependencies to be installed, you can find the instructions below
-
-This project require some perquisites and dependencies to be installed, you can view it online using this [demo](https://jobify-abdelrahman-soltan.up.railway.app/). or you can find the instructions below:
-
-> To get a local copy, follow these simple steps :
+This project requires some prerequisites and dependencies to be installed. You can view it online using this [demo](https://jobify-abdelrahman-soltan.up.railway.app/) or follow the instructions below to get a local copy:
 
 ### Installation
 
-#### installing Locally
+#### Installing Locally
 
-1. Clone the repo
+1. Clone the repository:
 
    ```sh
-   git clone https://github.com/samarthshete/job-app-mern
-   ```
+   git clone https://github.com/samarthshete/job-app-mern   ```
 
 2. go to project folder
 
    ```sh
-   cd jobify
+   cd job-app-mern
    ```
 
 3. install dependencies
