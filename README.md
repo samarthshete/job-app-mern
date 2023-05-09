@@ -60,13 +60,14 @@ JobTrackr is a comprehensive full-stack web application designed to streamline a
 
 ## Work in Progress
 
-TrackMyJob is currently under active development, and there are some features that are still being added or improved, and some bugs that are being addressed.
+JobTrackr is currently under active development, and there are some features that are still being added or improved, and some bugs that are being addressed.
 
 - Search Filter: I am working on implementing a search functionality that allows users to search and filter their job applications based on various criteria, such as job title, company name, or application status.
 - Stats Page: I am developing a stats page that will provide users with insightful visualizations and statistics related to their job applications, such as the number of applications submitted, the status distribution, or the average salary.
 - Document : Document page to upload and attach files related to job applications.
 
-We appreciate your patience as we work on these features. Contributions and suggestions are always welcome!
+I appreciate your patience as I am working on these features. Contributions and suggestions are always welcome!
+
 If you have any ideas for additional features or would like to contribute to the development of these features, please refer to the "Contributing" section for instructions on how to get started.
 
 ## Technologies Used
@@ -169,7 +170,7 @@ For any questions or inquiries, please reach out to:
 - Email: samarthshete14@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/samarthshete14/">Samarth Shete</a>
 
-Feel free to contact us through email or connect with us on LinkedIn. We are happy to answer any questions or discuss potential collaborations.
+Feel free to contact me through email or connect with me on LinkedIn. I am happy to answer any questions or discuss potential collaborations.
 
 Good luck with your project and your job search!
 
