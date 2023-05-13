@@ -39,7 +39,7 @@ JobTrackr is a comprehensive full-stack web application designed to streamline a
 ![Preview](./client/src/assets/images/preview2.PNG)
 ![Preview](./client/src/assets/images/preview3.PNG)
 
-### Features
+## Features
 
 1. User-friendly interface: TrackMyJob provides a clean and intuitive user interface that allows users to easily manage their job applications.
 2. Dashboard: Users can add job postings to their dashboard and track the status of each application at a glance.
@@ -141,7 +141,14 @@ This project requires some prerequisites and dependencies to be installed. You c
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you'd like to contribute to the project, please follow these steps:
+Here are some ways you can get started:
+
+1. Report bugs: If you encounter any bugs, please let us know. Open up an issue and let us know the problem.
+2. Contribute code: If you are a developer and want to contribute, follow the instructions below to get started!
+3. Suggestions: If you don't want to code but have some awesome ideas, open up an issue explaining some updates or imporvements you would like to see!
+4. Documentation: If you see the need for some additional documentation, feel free to add some!
+
+### Instructions
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature-name`
