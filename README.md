@@ -18,29 +18,18 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#work-in-progress"> Work in Progress</a></li>
-        <li><a href="#technologies-used">Technologies Used</a></li>
-        <li><a href="#users">Users</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+## Table Of Content
+
+- [About the project](#about-the-project)
+    - [Features](#features)
+    - [Work in Progress](#work-in-progress)
+    - [Technologies Used](#technologies-used)
+    - [Users](#users)
+- [Getting Started](#getting-started)
+    - [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## About The Project
 
